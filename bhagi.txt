@@ -1,6 +1,6 @@
 Hello world 
-I am in DevOps class
+I am in SRE class
 Welcome
 hello
 123
-Hello this is month May
+Hello this is month July
